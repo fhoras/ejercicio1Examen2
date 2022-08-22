@@ -1,0 +1,11 @@
+.carousel-item img {
+  width: 600px;
+  height: 400px;
+}
+#carouselExampleControls {
+  width: 600px;
+  height: 400px;
+}
+.contacto {
+  padding: 10px;
+}
